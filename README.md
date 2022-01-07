@@ -5,3 +5,9 @@ Modal Transition with Framer Motion and NEXT
 - NEXTjs
 - Typescript
 - Framer Motion
+
+# Follow Along here
+
+[Blog post](https://lawlesx.hashnode.dev/modal-transition-with-framer-motion-and-next)
+
+Demo live link - https://simple-modal-ten.vercel.app/
